@@ -1,0 +1,21 @@
+{
+  "name": "مترجم محلی",
+  "short_name": "مترجم محلی",
+  "description": "برنامه ترجمه زیرنویس با استفاده از LM Studio",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007aff",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
